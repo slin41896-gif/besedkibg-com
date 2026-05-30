@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-30",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/gc1fac5ae07b8275779e6c2e62f232701c877d86817d61dc04d4198349070669b9a0e3073d4aa80bd68dc0ffacd927ad459c0bdeda6a32f1960cd948b695af283_640.jpg"
+    },
+    {
       "slug": "football-betting-upsets-analysis",
       "title": "足球投注冷門頻現的成因分析：資訊不對稱與賠率偏差的系統性研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "```json",
       "imageUrl": "https://pixabay.com/get/gaf3500dd9c653f7b4bae47919cba529f3cb3d80422295fa2670d967426646362f70e6b591160dede41ab05f30238b898e4b28c5b191dcaa4cdb1e53f72fd3b17_640.jpg"
-    },
-    {
-      "slug": "football-handicap-strategy-guide",
-      "title": "足球讓球玩法詳解：運作原理、計算方式與新手入門完整指南",
-      "category": "undefined",
-      "date": "2026-05-29",
-      "excerpt": "玩波咁耐，有冇試過睇中晒形勢，但係讓球盤搞到你一頭霧水？今日就同大家拆解！",
-      "imageUrl": "https://pixabay.com/get/gefee36f5a0826ed0481ae2dd240b64dbd27d260f99a72ebd38a32f3e784463394468d57df995786c164ac3e9ad675c77b91a023ebfa3dee97a8ff69aeebae730_640.jpg"
     }
   ]
 }
