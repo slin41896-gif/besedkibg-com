@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "football-betting-upsets-analysis",
+      "title": "足球投注冷門頻現的成因分析：資訊不對稱與賠率偏差的系統性研究",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "我哋都試過買熱門輸錢，睇住冷門爆出！究竟足球投注入面，點解冷門會咁頻繁出現呢？真係咁邪門？",
+      "imageUrl": "https://pixabay.com/get/g5e76f675c3e235d8b39ed5351982f97c907c4a26ffa56b9f8ab2385a136c92560113cb8bc8281d425fd5710b7fc7123e55ab060adb392ec4045832284ec59949_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
