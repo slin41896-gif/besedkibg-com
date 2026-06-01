@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "cs2-esports-betting-team-analysis-strategy",
+      "title": "CS2電競投注隊伍分析：勝率評估、選手狀態與賽事數據的系統性研究方法",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "講到CS2電競投注，我發現好多人只係憑感覺落注，結果輸多贏少。想提升勝率？靠系統分析數據先係皇道！",
+      "imageUrl": "https://pixabay.com/get/g3d5f4d7af8493a34fac19a29750fe6039ca5ae5ac986c1998dcbba60b67ec27af4bb4974b5a8d0f9b2578e8e59f7c5ec_640.jpg"
+    },
+    {
       "slug": "esports-vs-traditional-betting-differences",
       "title": "電競投注與傳統體育博彩之核心差異：市場結構、賠率機制與監管框架比較研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "{",
       "imageUrl": "https://pixabay.com/get/gf6153236f510a66b997d637e72a31b523893ed0a230c4575ae329681126d90a49a376eed6618ccd55308dfd0d8191d7bb5be5ea3e42e6c3af7168133046d4ec0_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-31",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/g7e6ba548aae1dd401a597d2c5c9a19d203a8d1bc65b8b2c6247d9d70881320d7a6f158240ceb85f09e0ebf55b0415a2ea17f808cf53e58c619df7687c9310748_640.jpg"
     }
   ]
 }
