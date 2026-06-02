@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-06-02",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/g3872cdca83cc7c127cde577d73e5733992ac0f9b20b63eeb854118a95f0b51369da003690ea077db3b2e73342c4254dc_640.jpg"
+    },
+    {
       "slug": "cs2-esports-betting-team-analysis-strategy",
       "title": "CS2電競投注隊伍分析：勝率評估、選手狀態與賽事數據的系統性研究方法",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-06-01",
       "excerpt": "講起博彩，你可能淨係諗起足球籃球。但近年電競投注異軍突起，搞到我都有啲迷茫，究竟佢哋有咩唔同，又點樣先可以贏？",
       "imageUrl": "https://pixabay.com/get/g3bd92abd8943c5f78a0f95fb41058e3dffcfb9f65bfc0f6c56bcac24088819210bb59ea141fd71eafd53e4c2bd0f30c3ab274e6d5e563fcf19413e32f9c95ac7_640.jpg"
-    },
-    {
-      "slug": "article",
-      "title": "article",
-      "category": "General",
-      "date": "2026-05-31",
-      "excerpt": "{",
-      "imageUrl": "https://pixabay.com/get/gf6153236f510a66b997d637e72a31b523893ed0a230c4575ae329681126d90a49a376eed6618ccd55308dfd0d8191d7bb5be5ea3e42e6c3af7168133046d4ec0_640.jpg"
     }
   ]
 }
